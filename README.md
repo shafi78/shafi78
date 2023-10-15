@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React-native , MERN stack**
 
-- 💬 Ask me about **Html , css , javascript , PHP , React , React-native , Mysql**
+- 💬 Ask me about **Web Development , MERN Stack , React-native**
 
 - 📫 How to reach me **shafiullaattar786@gmail.com**
 
