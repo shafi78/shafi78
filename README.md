@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React-native , MERN stack**
 
-- 🌐 Portfolio : ** **
-
 - 💬 Ask me about **Web Development , MERN Stack , React-native**
 
 - 📫 How to reach me **shafiullaattar786@gmail.com**
