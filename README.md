@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shafiulla Attar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **React Native, MERN stack**
-- 💬 Ask me about **Web Development, MERN Stack, React Native**
+- 🌱 I’m currently learning **DSA**
+- 💬 Ask me about **Web Development & React Native**
 - 📫 How to reach me: **shafiullaattar786@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -15,7 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+        <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png)" alt="Bootstrap" width="40" height="40"/>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
